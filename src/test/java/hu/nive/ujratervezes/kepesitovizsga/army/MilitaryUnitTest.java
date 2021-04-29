@@ -1,4 +1,3 @@
-/*
 package hu.nive.ujratervezes.kepesitovizsga.army;
 
 import org.junit.jupiter.api.Test;
@@ -47,4 +46,3 @@ class MilitaryUnitTest {
         assertEquals(10, swordsman.doDamage());
     }
 }
-*/
