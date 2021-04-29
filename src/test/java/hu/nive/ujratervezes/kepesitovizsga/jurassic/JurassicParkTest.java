@@ -1,4 +1,3 @@
-/*
 package hu.nive.ujratervezes.kepesitovizsga.jurassic;
 
 import org.flywaydb.core.Flyway;
@@ -40,4 +39,4 @@ class JurassicParkTest {
     }
 
 
-}*/
+}
